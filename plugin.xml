@@ -19,7 +19,7 @@
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Loader">
-        <param name="android-package" value="com.bubbleroad.Loader"/>
+        <param name="android-package" value="com.bubbleroad.toyhunt"/>
       </feature>
     </config-file>
 
