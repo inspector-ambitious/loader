@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-loader",
+  "version": "3.0.7",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-loader",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "author": {
+    "name": "Nicolas Ferrero"
+  },
+  "contributors": [],
+  "license": "MIT"
+}
